@@ -1,16 +1,38 @@
-## Hi there 👋
+# Samir Aliyev
 
-<!--
-**jooonbones/jooonbones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation & Integration Developer**  
+*Business workflows · AI-assisted customer support · API integrations*
 
-Here are some ideas to get you started:
+I design and build practical software solutions that help businesses handle customer requests, connect their tools, and automate repetitive work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience includes commercial **n8n automation projects**, **OpenAI API integrations**, **WhatsApp and Telegram workflows**, and **customer-facing web applications**.
+
+### What I work with
+
+- **AI & automation:** n8n, OpenAI API, workflow orchestration, human handoff
+- **Business integrations:** REST APIs, LiveSklad, WhatsApp, Telegram
+- **Web & backend:** JavaScript, TypeScript, Next.js API routes, HTML, CSS
+- **Infrastructure & data:** DigitalOcean, Supabase, Vercel
+
+### Featured commercial projects
+
+| Project | What I built | Key technologies |
+| --- | --- | --- |
+| [**TEZ-TEZ — AI Customer Service Automation**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/tez-tez/README.md) | Messaging workflows for a repair and rental business, including AI-assisted inquiries, repair-status lookups, and manager handoff. | n8n, OpenAI API, WhatsApp, Telegram, LiveSklad, DigitalOcean |
+| [**Cherry on Top — Commerce Website**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/cherry-on-top/README.md) | Multilingual storefront, customer orders, custom-cake requests, and inventory/manager workflows. | JavaScript, TypeScript, Next.js, Supabase, Vercel |
+
+### What I can help with
+
+- Automating customer support and business operations
+- Connecting AI models with existing tools and APIs
+- Building Telegram and WhatsApp business workflows
+- Integrating order management, repair tracking, and inventory systems
+- Developing web applications and backend integrations
+
+### Explore my work
+
+**[View my portfolio and detailed case studies →](https://github.com/jooonbones/ai-automation-portfolio)**
+
+I'm interested in AI Automation / AI Integration opportunities and practical business projects.
+
+<sub>Commercial systems may include private source code and customer data. Portfolio cases describe implementation scope without exposing client credentials, private automation exports, or confidential information.</sub>
