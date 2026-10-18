@@ -1,11 +1,11 @@
 # Samir Aliyev
 
-**AI Automation & Integration Developer**  
+**Junior AI Automation & Integration Specialist**  
 *Business workflows · AI-assisted customer support · API integrations*
 
-I design and build practical software solutions that help businesses handle customer requests, connect their tools, and automate repetitive work.
+I work on practical business automation and integration projects using n8n and AI-assisted development tools to help businesses handle customer requests and connect their systems.
 
-My project experience includes commercial **n8n automation**, **OpenAI API integrations**, **WhatsApp and Telegram workflows**, and a **website built with AI-assisted development**.
+My early-career project experience includes **AI-assisted n8n automation**, **OpenAI API integrations**, **WhatsApp and Telegram workflows**, and a **commercial website created with AI development tools**.
 
 **Open to:** Employment with international teams and independent commercial projects worldwide.  
 **Based in:** Bishkek, Kyrgyzstan.
@@ -20,7 +20,7 @@ My project experience includes commercial **n8n automation**, **OpenAI API integ
 
 | Project | My project work | Technology used in the project |
 | --- | --- | --- |
-| [**TEZ-TEZ — AI Customer Service Automation**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/tez-tez/README.md) | Messaging workflows for a repair and rental business, including AI-assisted inquiries, repair-status lookups, and manager handoff. | n8n, OpenAI API, WhatsApp, Telegram, LiveSklad, DigitalOcean |
+| [**TEZ-TEZ — AI Customer Service Automation**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/tez-tez/README.md) | Developed and iterated on customer-messaging workflows with extensive AI assistance for a repair and rental business, including repair-status lookups and manager handoff. | n8n, OpenAI API, WhatsApp, Telegram, LiveSklad, DigitalOcean |
 | [**Cherry on Top — Commerce Website**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/cherry-on-top/README.md) | Created a multilingual commerce website using AI-assisted development, including storefront, orders, custom-cake requests, and inventory/manager workflows. | JavaScript, TypeScript, Next.js API routes, Supabase, Vercel |
 
 ### How I can contribute
