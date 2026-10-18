@@ -10,11 +10,10 @@ My experience includes commercial **n8n automation projects**, **OpenAI API inte
 **Open to:** Employment with international teams and independent commercial projects worldwide.  
 **Based in:** Bishkek, Kyrgyzstan.
 
-### Technical focus
+### Automation and integration focus
 
 - **AI & automation:** n8n, OpenAI API, workflow orchestration, human handoff
 - **Business integrations:** REST APIs, LiveSklad, WhatsApp, Telegram
-- **Web & backend:** JavaScript, TypeScript, Next.js API routes, HTML, CSS
 - **Infrastructure & data:** DigitalOcean, Supabase, Vercel
 
 ### Featured commercial projects
@@ -30,7 +29,7 @@ My experience includes commercial **n8n automation projects**, **OpenAI API inte
 - Connecting AI models with existing systems and APIs
 - Building Telegram and WhatsApp business workflows
 - Integrating order management, repair tracking, and inventory systems
-- Developing web applications and backend integrations
+- Coordinating practical automation and website delivery projects
 
 ### Portfolio & contact
 
