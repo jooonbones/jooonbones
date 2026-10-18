@@ -5,7 +5,7 @@
 
 I design and build practical software solutions that help businesses handle customer requests, connect their tools, and automate repetitive work.
 
-My experience includes commercial **n8n automation projects**, **OpenAI API integrations**, **WhatsApp and Telegram workflows**, and **customer-facing web applications**.
+My project experience includes commercial **n8n automation**, **OpenAI API integrations**, **WhatsApp and Telegram workflows**, and a **website built with AI-assisted development**.
 
 **Open to:** Employment with international teams and independent commercial projects worldwide.  
 **Based in:** Bishkek, Kyrgyzstan.
@@ -18,10 +18,10 @@ My experience includes commercial **n8n automation projects**, **OpenAI API inte
 
 ### Featured commercial projects
 
-| Project | What I built | Key technologies |
+| Project | My project work | Technology used in the project |
 | --- | --- | --- |
 | [**TEZ-TEZ — AI Customer Service Automation**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/tez-tez/README.md) | Messaging workflows for a repair and rental business, including AI-assisted inquiries, repair-status lookups, and manager handoff. | n8n, OpenAI API, WhatsApp, Telegram, LiveSklad, DigitalOcean |
-| [**Cherry on Top — Commerce Website**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/cherry-on-top/README.md) | Multilingual storefront, customer orders, custom-cake requests, and inventory/manager workflows. | JavaScript, TypeScript, Next.js API routes, Supabase, Vercel |
+| [**Cherry on Top — Commerce Website**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/cherry-on-top/README.md) | Created a multilingual commerce website using AI-assisted development, including storefront, orders, custom-cake requests, and inventory/manager workflows. | JavaScript, TypeScript, Next.js API routes, Supabase, Vercel |
 
 ### How I can contribute
 
