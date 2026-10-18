@@ -32,8 +32,9 @@ My experience includes commercial **n8n automation projects**, **OpenAI API inte
 - Integrating order management, repair tracking, and inventory systems
 - Developing web applications and backend integrations
 
-### Portfolio
+### Portfolio & contact
 
-**[View my portfolio and detailed case studies →](https://github.com/jooonbones/ai-automation-portfolio)**
+- **[Portfolio and project case studies](https://github.com/jooonbones/ai-automation-portfolio)**
+- **[LinkedIn profile](https://www.linkedin.com/in/%D1%81%D0%B0%D0%BC%D0%B8%D1%80-%D0%B0%D0%BB%D0%B8%D0%B5%D0%B2-451727438/)**
 
 <sub>Commercial systems may include private source code and customer data. Portfolio cases describe implementation scope without exposing client credentials, private automation exports, or confidential information.</sub>
