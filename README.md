@@ -7,7 +7,7 @@ I design and build practical software solutions that help businesses handle cust
 
 My experience includes commercial **n8n automation projects**, **OpenAI API integrations**, **WhatsApp and Telegram workflows**, and **customer-facing web applications**.
 
-**Career focus:** AI Automation / AI Integration roles with technology teams in **Dubai and the UAE**.  
+**Open to:** Employment with international teams and independent commercial projects worldwide.  
 **Based in:** Bishkek, Kyrgyzstan.
 
 ### Technical focus
@@ -24,7 +24,7 @@ My experience includes commercial **n8n automation projects**, **OpenAI API inte
 | [**TEZ-TEZ — AI Customer Service Automation**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/tez-tez/README.md) | Messaging workflows for a repair and rental business, including AI-assisted inquiries, repair-status lookups, and manager handoff. | n8n, OpenAI API, WhatsApp, Telegram, LiveSklad, DigitalOcean |
 | [**Cherry on Top — Commerce Website**](https://github.com/jooonbones/ai-automation-portfolio/blob/main/case-studies/cherry-on-top/README.md) | Multilingual storefront, customer orders, custom-cake requests, and inventory/manager workflows. | JavaScript, TypeScript, Next.js API routes, Supabase, Vercel |
 
-### What I can contribute
+### How I can contribute
 
 - Automating customer support and business operations
 - Connecting AI models with existing systems and APIs
